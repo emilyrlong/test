@@ -1,2 +1,2 @@
 # test
-hello my name is emily
+Hello my name is Emily.
